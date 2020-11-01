@@ -1,0 +1,4 @@
+﻿  StringCompCase.c
+C:\Users\이상민\Desktop\c_programming\StringCompCase\StringCompCase\StringCompCase.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\StringCompCase\StringCompCase\StringCompCase.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StringCompCase.vcxproj -> C:\Users\이상민\Desktop\c_programming\StringCompCase\Debug\StringCompCase.exe

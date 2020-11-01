@@ -1,0 +1,5 @@
+﻿  StringCopyCase.c
+C:\Users\이상민\Desktop\c_programming\StringCopyCase\StringCopyCase\StringCopyCase.c(11,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\StringCopyCase\StringCopyCase\StringCopyCase.c(15,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\StringCopyCase\StringCopyCase\StringCopyCase.c(19,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StringCopyCase.vcxproj -> C:\Users\이상민\Desktop\c_programming\StringCopyCase\Debug\StringCopyCase.exe

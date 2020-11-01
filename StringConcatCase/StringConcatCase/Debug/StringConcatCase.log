@@ -1,0 +1,4 @@
+﻿  StringConcatCase.c
+C:\Users\이상민\Desktop\c_programming\StringConcatCase\StringConcatCase\StringConcatCase.c(13,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\StringConcatCase\StringConcatCase\StringConcatCase.c(17,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StringConcatCase.vcxproj -> C:\Users\이상민\Desktop\c_programming\StringConcatCase\Debug\StringConcatCase.exe

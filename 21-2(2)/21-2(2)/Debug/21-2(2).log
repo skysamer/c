@@ -1,0 +1,4 @@
+﻿  21-2(2).c
+C:\Users\이상민\Desktop\c_programming\21-2(2)\21-2(2)\21-2(2).c(18,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\21-2(2)\21-2(2)\21-2(2).c(19,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  21-2(2).vcxproj -> C:\Users\이상민\Desktop\c_programming\21-2(2)\Debug\21-2(2).exe
