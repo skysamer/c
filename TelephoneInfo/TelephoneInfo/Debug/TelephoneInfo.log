@@ -1,0 +1,7 @@
+﻿  TelephoneInfo.c
+C:\Users\이상민\Desktop\c_programming\TelephoneInfo\TelephoneInfo\TelephoneInfo.c(14,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TelephoneInfo\TelephoneInfo\TelephoneInfo.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TelephoneInfo\TelephoneInfo\TelephoneInfo.c(18,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TelephoneInfo\TelephoneInfo\TelephoneInfo.c(19,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TelephoneInfo\TelephoneInfo\TelephoneInfo.c(20,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TelephoneInfo.vcxproj -> C:\Users\이상민\Desktop\c_programming\TelephoneInfo\Debug\TelephoneInfo.exe

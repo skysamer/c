@@ -1,0 +1,4 @@
+﻿  TwoPointDistance.c
+C:\Users\이상민\Desktop\c_programming\TwoPointDistance\TwoPointDistance\TwoPointDistance.c(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TwoPointDistance\TwoPointDistance\TwoPointDistance.c(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TwoPointDistance.vcxproj -> C:\Users\이상민\Desktop\c_programming\TwoPointDistance\Debug\TwoPointDistance.exe
