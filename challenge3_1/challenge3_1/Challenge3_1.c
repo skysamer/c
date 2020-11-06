@@ -23,8 +23,6 @@ void Rotation(int (*arr)[4])     // 회전시키는 함수
 			arr[i][j] = temp[i][j];
 		}
 	}
-
-	
 }
 
 int main(void)
