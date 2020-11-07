@@ -1,0 +1,3 @@
+﻿  StructValAndFunction.c
+C:\Users\이상민\source\repos\StructValAndFunction\StructValAndFunction\StructValAndFunction.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StructValAndFunction.vcxproj -> C:\Users\이상민\source\repos\StructValAndFunction\Debug\StructValAndFunction.exe
