@@ -1,0 +1,4 @@
+﻿  23-2.c
+C:\Users\이상민\Desktop\c_programming\23-2\23-2\23-2.c(18): warning C4716: 'extent': 값을 반환해야 합니다.
+C:\Users\이상민\Desktop\c_programming\23-2\23-2\23-2.c(26): warning C4716: 'dot': 값을 반환해야 합니다.
+  23-2.vcxproj -> C:\Users\이상민\Desktop\c_programming\23-2\Debug\23-2.exe

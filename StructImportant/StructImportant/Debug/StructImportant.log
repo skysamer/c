@@ -1,0 +1,7 @@
+﻿  StructImportant.c
+C:\Users\이상민\source\repos\StructImportant\StructImportant\StructImportant.c(28,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\source\repos\StructImportant\StructImportant\StructImportant.c(29,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\source\repos\StructImportant\StructImportant\StructImportant.c(30,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\source\repos\StructImportant\StructImportant\StructImportant.c(31,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\source\repos\StructImportant\StructImportant\StructImportant.c(32,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StructImportant.vcxproj -> C:\Users\이상민\source\repos\StructImportant\Debug\StructImportant.exe
