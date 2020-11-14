@@ -1,0 +1,4 @@
+﻿  TextStringFileCopy.c
+C:\Users\이상민\Desktop\c_programming\TextStringFileCopy\TextStringFileCopy\TextStringFileCopy.c(5,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이상민\Desktop\c_programming\TextStringFileCopy\TextStringFileCopy\TextStringFileCopy.c(6,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TextStringFileCopy.vcxproj -> C:\Users\이상민\Desktop\c_programming\TextStringFileCopy\Debug\TextStringFileCopy.exe
